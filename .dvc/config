@@ -1,4 +1,4 @@
 [core]
     remote = mystorage
 ['remote "mystorage"']
-    url = ssh://valify@192.168.1.65/datadrive/ML/Donia/archive
+    url = ssh://valify@192.168.1.65/datadrive/ML/Donia/archive/learn_dvc
